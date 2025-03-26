@@ -70,11 +70,7 @@ streamlit run app.py
 |-- README.md             # Project Documentation
 ```
 
-## Contributing
-
-Feel free to contribute to this project by submitting issues or pull requests!
-
-## License
-
-This project is licensed under the MIT License.
+## Output
+Here's an image:
+![My Project Logo](C:\Users\HP\Desktop)
 
