@@ -1,4 +1,4 @@
-# Multimodal AI Agent - Video Summarizer
+![image](https://github.com/user-attachments/assets/f9df1d98-1300-4145-ab3d-81066dffd90c)# Multimodal AI Agent - Video Summarizer
 
 ## Overview
 
@@ -43,7 +43,7 @@ google-generativeai
 Create a `.env` file and add your **Google API Key**:
 
 ```ini
-GOOGLE_API_KEY=your_google_api_key_here
+GOOGLE_API_KEY= "google_api_key_here" 
 ```
 
 ## Running the Application
@@ -71,5 +71,6 @@ streamlit run app.py
 ```
 
 ## Output
-Here's an image:
-![alt text]([C:s\HP\Desktop\User](https://github.com/t20071/Gen_Agentic_AI/blob/main/image.jpeg))
+He![image](https://github.com/user-attachments/assets/fb0a1150-ab80-4674-bd70-9b2524c03786)
+re's an image:
+
