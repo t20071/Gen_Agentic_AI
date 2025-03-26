@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f9df1d98-1300-4145-ab3d-81066dffd90c)# Multimodal AI Agent - Video Summarizer
-
 ## Overview
 
 The **Multimodal AI Agent - Video Summarizer** is a Streamlit-based web application that leverages **Phidata (Agno) framework**, **Google Gemini 2.0 Flash Exp**, and **DuckDuckGo search tool** to analyze video content and provide AI-generated insights based on user queries.
@@ -71,6 +69,6 @@ streamlit run app.py
 ```
 
 ## Output
-He![image](https://github.com/user-attachments/assets/fb0a1150-ab80-4674-bd70-9b2524c03786)
+Here is the webpage image![image](https://github.com/user-attachments/assets/fb0a1150-ab80-4674-bd70-9b2524c03786)
 re's an image:
 
