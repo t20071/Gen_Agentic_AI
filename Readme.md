@@ -72,5 +72,6 @@ streamlit run app.py
 
 ## Output
 Here's an image:
-![My Project Logo](C:\Users\HP\Desktop)
+![My Project Logo]([C:s\HP\Desktop\User](https://github.com/t20071/Gen_Agentic_AI/blob/main/image.jpeg))
+
 
